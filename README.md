@@ -2,14 +2,6 @@
 
 <p align="center">🚀 Full-Stack & Web3 Developer | 🧠 MERN, Next.js & Web3 Enthusiast | 🛠️ Building modern decentralized applications</p>
 
-## 📫 Contact Me
-
-<p align="center">
-  <a href="https://hamayun.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" width="120"/></a>
-  <a href="mailto:hamayunsafdar1947@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120"/></a>
-  <a href="https://www.linkedin.com/in/hamayun-safdar-gill-692706182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120"/></a>
-</p>
-
 ---
 
 ## 🛠 Tech Stack
@@ -41,6 +33,16 @@
   <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" width="120"/>
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" width="120"/>
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" width="120"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://hamayun.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" width="120"/></a>
+  <a href="mailto:hamayunsafdar1947@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120"/></a>
+  <a href="https://www.linkedin.com/in/hamayun-safdar-gill-692706182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120"/></a>
 </p>
 
 ---

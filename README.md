@@ -90,6 +90,3 @@ Here are some of the **projects** I've worked on:
 - **Mobile Applications (React Native)**: Developed cross-platform mobile applications with React Native, focusing on high performance and user experience. Delivered apps for e-commerce, social networking, and utility purposes.
 
 ---
-
-
----

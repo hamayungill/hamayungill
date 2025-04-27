@@ -38,6 +38,8 @@
 
 I'm a full-stack developer with a passion for creating **modern, clean, and decentralized applications**. With expertise in **MERN, Next.js**, and **Solidity, Rust**, I have successfully built **Staking apps**, **dApps**, **DAOs**, **e-commerce** platforms, and **enterprise applications**. I am always keen to learn about the latest technologies and use them to solve real-world problems. Currently diving deep into the Web3 world with **Solidity**, **Rust**, and **blockchain** technologies.
 
+Additionally, I have extensive experience with **React Native** and **modern mobile applications**, creating responsive and high-performance apps that work seamlessly across both iOS and Android.
+
 ---
 
 ## 🏆 Projects
@@ -52,6 +54,7 @@ Here are some of the **projects** I've worked on:
 - **Enterprise Applications**: Worked on large-scale enterprise applications with modern UI/UX design and scalability.
 - **Voting Systems**: Built secure and transparent voting applications leveraging blockchain for verifiable and tamper-proof results.
 - **Custom Web3 Projects**: Developed custom smart contracts and dApps tailored to specific business requirements, including token creation, NFT marketplaces, and more.
+- **Mobile Applications (React Native)**: Developed cross-platform mobile applications with React Native, focusing on high performance and user experience. Delivered apps for e-commerce, social networking, and utility purposes.
 
 Visit my portfolio to check it out.
 
@@ -81,7 +84,4 @@ These tools help ensure that both the **frontend**, **backend**, and **smart con
 <p align="center">
   <a href="https://hamayun.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:hamayunsafdar1947@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hamayun-safdar-gill-692706182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
+  <a href="https://www.linkedin.com/in/hamayun-safdar-g

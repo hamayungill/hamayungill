@@ -91,5 +91,3 @@ These tools help ensure that both the **frontend**, **backend**, and **smart con
 </p>
 
 ---
-
-Let me know if you'd like me to make any further adjustments!

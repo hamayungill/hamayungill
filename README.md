@@ -49,17 +49,16 @@ Additionally, I have extensive experience with **React Native** and **modern mob
 
 Here are some of the **projects** I've worked on:
 
-- **Staking Platforms**: Developed staking mechanisms for decentralized finance (DeFi) platforms, allowing users to earn rewards while providing liquidity to the ecosystem.
-- **Betting Apps**: Developed decentralized and secure betting platforms with smart contract integrations.
+
+- **Staking Platforms (MERN & Web3)**: Developed staking mechanisms for decentralized finance (DeFi) platforms, allowing users to earn rewards while providing liquidity to the ecosystem.
+- **Betting Apps (MERN & Web3)**: Developed decentralized and secure betting platforms with smart contract integrations.
 - **dApps (Decentralized Applications)**: Built several Web3-based applications for different industries, integrating blockchain for secure, trustless interactions.
 - **DAOs (Decentralized Autonomous Organizations)**: Implemented governance systems, voting mechanisms, and decentralized decision-making on the blockchain.
-- **E-commerce Platforms**: Created e-commerce solutions with a seamless user experience and blockchain payment integration.
-- **Enterprise Applications**: Worked on large-scale enterprise applications with modern UI/UX design and scalability.
-- **Voting Systems**: Built secure and transparent voting applications leveraging blockchain for verifiable and tamper-proof results.
-- **Custom Web3 Projects**: Developed custom smart contracts and dApps tailored to specific business requirements, including token creation, NFT marketplaces, and more.
+- **E-commerce Platforms (MERN)**: Created e-commerce solutions with a seamless user experience and blockchain payment integration.
+- **Enterprise Applications (MERN & Postgres)**: Worked on large-scale enterprise applications with modern UI/UX design and scalability.
+- **Voting Systems (MERN & Web3)**: Built secure and transparent voting applications leveraging blockchain for verifiable and tamper-proof results.
+- **Custom Web3 Projects (MERN & Solidity & Rust)**: Developed custom smart contracts and dApps tailored to specific business requirements, including token creation, NFT marketplaces, and more.
 - **Mobile Applications (React Native)**: Developed cross-platform mobile applications with React Native, focusing on high performance and user experience. Delivered apps for e-commerce, social networking, and utility purposes.
-
-Visit my portfolio to check it out.
 
 ---
 

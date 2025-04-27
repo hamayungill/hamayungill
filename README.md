@@ -36,7 +36,43 @@
 
 ## 📬 About Me
 
-I'm a full-stack developer passionate about building clean, modern, and decentralized applications. I blend the power of **MERN & Next.js** with the performance of **Node.js** and the future of **Web3** using **Solidity & Rust**, creating tools that push the web forward.
+I'm a full-stack developer with a passion for creating **modern, clean, and decentralized applications**. With expertise in **MERN, Next.js**, and **Solidity, Rust**, I have successfully built **Staking apps**, **dApps**, **DAOs**, **e-commerce** platforms, and **enterprise applications**. I am always keen to learn about the latest technologies and use them to solve real-world problems. Currently diving deep into the Web3 world with **Solidity**, **Rust**, and **blockchain** technologies.
+
+---
+
+## 🏆 Projects
+
+Here are some of the **projects** I've worked on:
+
+- **Staking Platforms**: Developed staking mechanisms for decentralized finance (DeFi) platforms, allowing users to earn rewards while providing liquidity to the ecosystem.
+- **Betting Apps**: Developed decentralized and secure betting platforms with smart contract integrations.
+- **dApps (Decentralized Applications)**: Built several Web3-based applications for different industries, integrating blockchain for secure, trustless interactions.
+- **DAOs (Decentralized Autonomous Organizations)**: Implemented governance systems, voting mechanisms, and decentralized decision-making on the blockchain.
+- **E-commerce Platforms**: Created e-commerce solutions with a seamless user experience and blockchain payment integration.
+- **Enterprise Applications**: Worked on large-scale enterprise applications with modern UI/UX design and scalability.
+- **Voting Systems**: Built secure and transparent voting applications leveraging blockchain for verifiable and tamper-proof results.
+- **Custom Web3 Projects**: Developed custom smart contracts and dApps tailored to specific business requirements, including token creation, NFT marketplaces, and more.
+
+Visit my portfolio to check it out.
+
+---
+
+## 🧪 Unit Testing
+
+To ensure the reliability and security of both web applications and smart contracts, I implement **unit testing** using the following libraries and frameworks:
+
+- **Web Application Testing**:
+  - **Jest**: Used for unit testing and integration testing of React, Next.js, and Node.js applications.
+  - **React Testing Library**: Helps test React components in an environment close to how users interact with them.
+  - **Supertest**: Used for testing RESTful API endpoints.
+
+- **Smart Contract Testing**:
+  - **Hardhat**: Provides an environment for compiling, deploying, testing, and debugging Ethereum smart contracts.
+  - **Mocha**: Used with Hardhat for writing tests in a simple and efficient manner.
+  - **Chai**: An assertion library that integrates with Mocha for testing smart contract logic.
+  - **Ethers.js**: Used to interact with smart contracts during tests and perform blockchain-related operations.
+
+These tools help ensure that both the **frontend**, **backend**, and **smart contracts** are thoroughly tested and perform as expected.
 
 ---
 
@@ -47,3 +83,5 @@ I'm a full-stack developer passionate about building clean, modern, and decentra
   <a href="mailto:hamayunsafdar1947@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hamayun-safdar-gill-692706182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+---
